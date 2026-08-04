@@ -82,7 +82,7 @@ export default definePlugin({
     name: "PinDMsPlus",
     description: "Fork of PinDMs (disable the built-in PinDMs when using this) - pin private channels to the top of your DM list, plus auto-groups all group DMs into a collapsible Group Chats section. To pin/unpin or re-order pins, right click DMs",
     tags: ["Friends", "Organisation"],
-    authors: [Devs.Ven, Devs.Aria, { name: "isnuggs", id: 0n }],
+    authors: [Devs.Ven, Devs.Aria, { name: "isnuggs", id: 1483261914392825958n }],
     settings,
     contextMenus,
 
