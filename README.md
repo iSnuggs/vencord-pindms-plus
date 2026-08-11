@@ -176,3 +176,16 @@ Found under Vencord Settings → Plugins → pinDmsPlus.
 This is a fork rather than a light wrapper — the original plugin's source is copied in and modified, because
 the Group Chats category needs to hook into the same section-index logic the original uses to lay out the
 channel list.
+
+## License
+
+Released under the **GNU General Public License v3.0 or later** — see [LICENSE](LICENSE).
+
+This plugin is a fork of the **PinDMs** plugin from [Vencord](https://github.com/Vendicated/Vencord),
+Copyright (c) 2024 Vendicated and contributors, which is licensed GPL-3.0-or-later. The original
+source is copied into this repository and modified; every file retains its original copyright and
+SPDX header. Because the GPL is a copyleft licence, this fork is required to be GPL-3.0-or-later
+as well — that is not a preference, it is the licence the original grants redistribution under.
+
+The Group Chats category and the changes around it are the added work; everything else is
+Vendicated's and the Vencord contributors'.
