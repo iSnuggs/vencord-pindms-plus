@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo-light.svg" alt="isnuggs" height="128">
+  </picture>
+</p>
+
 # pinDmsPlus
 
 A fork of [Vencord](https://github.com/Vendicated/Vencord)'s built-in **PinDMs** plugin that adds an
@@ -189,3 +196,6 @@ as well — that is not a preference, it is the licence the original grants redi
 
 The Group Chats category and the changes around it are the added work; everything else is
 Vendicated's and the Vencord contributors'.
+
+The logo in `assets/` is a project mark rather than part of the licensed source, and is
+excluded from the GPL grant — please do not reuse it to identify your own project.
